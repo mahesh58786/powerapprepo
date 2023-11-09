@@ -1,0 +1,14 @@
+Screen2 As screen:
+
+    CanvasIFrame1 As CanvasIFrame:
+        DisplayMode: =DisplayMode.Edit
+        height: =0
+        Height: =0
+        src: |-
+            ="https://www.youtube.com/embed/gbAdFfSdtQ4?si=MOZtM76Aw3YLvKsu"
+        width: =0
+        Width: =0
+        X: =40
+        Y: =40
+        ZIndex: =1
+

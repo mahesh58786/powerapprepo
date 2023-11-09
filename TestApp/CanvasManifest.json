@@ -51,7 +51,6 @@
       "enableruntimepolicies": true,
       "enablesaveloadcleardataonweb": true,
       "enableupdateifdelegation": false,
-      "enhancedgalleryinitialization": true,
       "errorhandling": true,
       "expandedsavedatasupport": true,
       "exportimportcomponents2": true,
@@ -112,7 +111,6 @@
     "FileID": "5bb27296-e277-4f71-b330-f06e0a1ec35e",
     "Id": "5bb27296-e277-4f71-b330-f06e0a1ec35e",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
     "Name": "TestApp",
     "OriginatingVersion": "1.335",
@@ -131,6 +129,7 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen2"
   ]
 }

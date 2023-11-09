@@ -27,6 +27,21 @@
     "OverridableProperties": {},
     "Version": "2.2.0"
   },
+  "CanvasIFrame": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": false,
+    "Id": "http://microsoft.com/appmagic/powercontrol/iframesl_SampleNamespace.CanvasIFrame",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": true,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "iframesl_SampleNamespace.CanvasIFrame",
+    "OverridableProperties": {},
+    "TemplateDisplayName": "CanvasIFrame",
+    "Version": "0.0.1"
+  },
   "groupContainer": {
     "FirstParty": true,
     "Id": "http://microsoft.com/appmagic/groupContainer",

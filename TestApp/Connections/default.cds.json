@@ -1,0 +1,12 @@
+{
+  "components": [
+    {
+      "Capabilities": {
+        "PCFExternalServiceUsageAllowed": false
+      },
+      "ComponentName": "CustomControl",
+      "Identifier": "iframesl_SampleNamespace.CanvasIFrame",
+      "IdentifierType": 0
+    }
+  ]
+}
