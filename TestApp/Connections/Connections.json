@@ -1,1 +1,28 @@
-{}
+{
+  "e62fb5f2-ed8b-4e2e-9fab-cb9bb553dcbc": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://synergye3.sharepoint.com/sites/CorporateIntranet": {
+        "dataSources": {
+          "Car": {
+            "tableName": "de340f47-13e7-429c-a9cf-76794c241773"
+          },
+          "Emp": {
+            "tableName": "053ab2f2-cdcf-4ce2-b615-82e800c2c3d8"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Emp",
+      "Car"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "e62fb5f2-ed8b-4e2e-9fab-cb9bb553dcbc"
+  }
+}

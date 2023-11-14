@@ -97,7 +97,7 @@
     },
     "Author": "",
     "BindingErrorCount": 0,
-    "ContainsThirdPartyPcfControls": false,
+    "ContainsThirdPartyPcfControls": true,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "DesktopOrTablet",
     "DocumentLayoutHeight": 768,
@@ -130,6 +130,7 @@
   },
   "ScreenOrder": [
     "Screen1",
-    "Screen2"
+    "Screen2",
+    "Screen3"
   ]
 }
